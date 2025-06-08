@@ -93,6 +93,12 @@ python hamming_arayuz.py
   * Bit görselleştirme sistemi
   * Kullanıcı etkileşim kontrolcüleri
 
+## Programdan Görseller
+![Hamming Simülatörü resim1](img/image1.png)
+![Hamming Simülatörü resim2](img/image2.png)
+![Hamming Simülatörü resim3](img/image3.png)
+
+
 ## 🎯 Eğitimsel Faydalar
 
 * Hamming kodunun matematiksel temellerini anlama
