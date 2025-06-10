@@ -148,5 +148,5 @@ Bu projeyi geliştirirken önce Hamming kodunun matematiksel temelini anlamaya �
 ## 🎬 Video Tanıtım
 
 Programın kullanımını gösteren video için aşağıdaki bağlantıyı ziyaret edebilirsiniz:
-[Hamming Simülatörü Tanıtım Videosu](https://www.youtube.com/your-video-link)
+[Hamming Simülatörü Tanıtım Videosu](https://www.youtube.com/watch?v=vpck2uH-r48)
 
